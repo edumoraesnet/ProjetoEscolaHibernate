@@ -13,8 +13,8 @@ public class ProjetoEscola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-        Cadastros cadAluno = new Cadastros();
+        cadastros alunos-new cadastros();
+        //Cadastros cadAluno = new Cadastros();
         cadAluno.cadastroAlunos();
         Cadastros cadProf = new Cadastros();
         cadProf.cadastroProfessor();
